@@ -8,20 +8,8 @@ In the modern enterprise landscape—particularly within high-security, high-ava
 
 This project involves the design, structural implementation, and end-to-end verification of a simulated three-site enterprise network built using **Cisco Packet Tracer 8.2.2**. The entire infrastructure is modeled after real-world corporate deployment architectures, focusing on scalability, strict data separation, logical traffic routing, and high-performance switching.
 
+<img width="1542" height="563" alt="image" src="https://github.com/user-attachments/assets/ca053839-9e8b-4913-b8cd-58602516229a" />
 
-```
-
-```
-              [ Abuja HQ (Core) ]
-                 /           \
-         WAN Serial         WAN Serial
-               /               \
-
-```
-
-[ Lagos Regional Branch ]     [ Port Harcourt Regional Branch ]
-
-```
 
 Why This Project Matters
 Rather than deploying a flat network layout, this project showcases a deep understanding of hierarchical network architecture. It demonstrates how to successfully bridge multiple geographic regions while managing internal department security policies, centralizing core network services, and optimizing bandwidth consumption over simulated point-to-point leased lines.
